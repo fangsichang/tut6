@@ -1,0 +1,14 @@
+2022-10-28 15:25:33 [FILE] [loggingTutorial.MergeTransactions.readData(MergeTransactions.java:79)] [ main:0 ] - [ INFO ]  import data from src/resources/transactions1.csv
+2022-10-28 15:25:33 [FILE] [loggingTutorial.MergeTransactions.readData(MergeTransactions.java:79)] [ main:11 ] - [ INFO ]  import data from src/resources/transactions2.csv
+2022-10-28 15:25:33 [FILE] [loggingTutorial.MergeTransactions.readData(MergeTransactions.java:79)] [ main:17 ] - [ INFO ]  import data from src/resources/transactions3.csv
+2022-10-28 15:25:33 [FILE] [loggingTutorial.MergeTransactions.readData(MergeTransactions.java:116)] [ main:18 ] - [ ERROR ]  cannot parse date from string - please check whether syntax is correct: Animates,4,13/5/2012
+2022-10-28 15:25:33 [FILE] [loggingTutorial.MergeTransactions.main(MergeTransactions.java:48)] [ main:18 ] - [ INFO ]  8 transactions imported
+2022-10-28 15:25:33 [FILE] [loggingTutorial.MergeTransactions.main(MergeTransactions.java:49)] [ main:20 ] - [ INFO ]  total value: ￥840.00
+2022-10-28 15:25:33 [FILE] [loggingTutorial.MergeTransactions.main(MergeTransactions.java:50)] [ main:22 ] - [ INFO ]  max value: ￥240.00
+2022-10-29 16:25:37 [FILE] [loggingTutorial.MergeTransactions.readData(MergeTransactions.java:79)] [ main:0 ] - [ INFO ]  import data from src/resources/transactions1.csv
+2022-10-29 16:25:37 [FILE] [loggingTutorial.MergeTransactions.readData(MergeTransactions.java:79)] [ main:16 ] - [ INFO ]  import data from src/resources/transactions2.csv
+2022-10-29 16:25:37 [FILE] [loggingTutorial.MergeTransactions.readData(MergeTransactions.java:79)] [ main:17 ] - [ INFO ]  import data from src/resources/transactions3.csv
+2022-10-29 16:25:37 [FILE] [loggingTutorial.MergeTransactions.readData(MergeTransactions.java:116)] [ main:18 ] - [ ERROR ]  cannot parse date from string - please check whether syntax is correct: Animates,4,13/5/2012
+2022-10-29 16:25:37 [FILE] [loggingTutorial.MergeTransactions.main(MergeTransactions.java:48)] [ main:19 ] - [ INFO ]  8 transactions imported
+2022-10-29 16:25:37 [FILE] [loggingTutorial.MergeTransactions.main(MergeTransactions.java:49)] [ main:24 ] - [ INFO ]  total value: ￥840.00
+2022-10-29 16:25:37 [FILE] [loggingTutorial.MergeTransactions.main(MergeTransactions.java:50)] [ main:26 ] - [ INFO ]  max value: ￥240.00
